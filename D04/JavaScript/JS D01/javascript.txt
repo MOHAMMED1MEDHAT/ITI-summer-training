@@ -1,0 +1,63 @@
+js is cross platform 
+
+js is case sensetive 
+
+x != X
+
+embeding Lang ==> inside HTML
+
+var 
+
+losely type 
+
+var num=5
+num='ali'
+
+
+==================== 
+
+ where to write js 
+
+-1 external file 
+2-  internal inside html <script>
+3- event handeler 
+====================
+
+3- interprteing
+
+==================
+case sensetive 
+
+var Str != var str ! =var STR 
+
+; at end of each line 
+
+===============
+ reserved key words 
+
+var if 
+var for 
+var while 
+var function 
+
+var for1
+var _for 
+var for_std
+var $for
+var std_name
+
+
+=====  var name
+var _name 
+var name 2 
+var $name 
+var full_name 
+
+===========
+// comment for one line 
+
+/*
+
+ comment for multiline 
+*/
+

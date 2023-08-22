@@ -1,0 +1,84 @@
+1 text 
+2- image 
+
+3- tables 
+
+4- forms 
+
+============================
+Links 
+
+hyper text markup Lang 
+
+1- external link 
+
+internal link 
+
+3- named anchor 
+
+4- mail link 
+
+
+
+<a href="destation link "> content </a>
+
+
+
+
+================
+
+pathes 
+
+1- absloute Path 
+
+2 relative Path 
+
+==========================
+
+to : mhm@a.a
+cc: ahmed@a.a
+bcc: rana@b.b
+subject :  new vision
+
+body :
+
+======================== forms 
+
+collect 
+
+<form>
+
+
+method   get   
+
+ post  
+
+action :   
+
+
+==================
+form input 
+text 
+password 
+file 
+check box 
+radio 
+reset 
+submit 
+
+email 
+number 
+text area
+button 
+===
+select 
+
+
+
+
+
+
+
+
+
+

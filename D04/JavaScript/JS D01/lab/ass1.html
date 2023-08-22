@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+    </head>
+    <body>
+        <script>
+            //sol 1:
+            var str = "the quick brown fox";
+            var words = str.split(" ");
+            var result = "";
+            for (var i = 0; i < words.length; i++) {
+                words[i] = words[i].charAt(0).toUpperCase() + words[i].slice(1);
+                result += words[i] + " ";
+            }
+            console.log(result);
+            //====================================================
+            //sol 2:
+            var str = "the quick brown fox";
+            var result = "";
+            for (var i = 0; i < str.length; i++) {
+                if (str[i] == " ") {
+                    result += str[i];
+                    i++;
+                    result += str[i].toUpperCase();
+                } else {
+                    result += str[i];
+                }
+            }
+            console.log(result);
+        </script>
+    </body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+            // Initialize a variable to count the refreshes
+            let refreshCount = localStorage.getItem("refreshCount");
+
+            // Function to update the title with refresh count and time
+            function updateTitle() {
+                document.title = `${refreshCount}`;
+            }
+
+            // Call the updateTitle function when the page is loaded or refreshed
+            window.onload = updateTitle;
+        </script>
+    </head>
+    <body>
+        <script src="./task3.js"></script>
+    </body>
+</html>

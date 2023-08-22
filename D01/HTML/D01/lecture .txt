@@ -1,0 +1,133 @@
+HTML ==> Hyper Text MarkUp  Language 
+
+interpretation 
+predefined tags 
+<p> <h> <b>
+<p>iti</p>
+
+
+browser
+
+--  static web page 
+
+client   :  facebook 
+
+
+server  :  
+
+http ==>> hyper Text Transefere protocole
+
+http:www.twitter/home.html    // URI
+
+www.twitter/home.html 
+www>> world wide  web 
+
+LAN >> Local Area Network 
+
+WAN >> wide area network 
+
+www
+
+
+
+
+html >> predefined tags 
+html  
+
+html 5 
+
+=========================
+1- paired tag / couple tag
+
+<p> iti </p> 
+
+2- paired tag with attribute 
+
+<p align="center"> iti </p> 
+
+3- self closing tag 
+<img/>
+
+3- self closing tag with attr
+<img src=""/>
+===============================
+not case sensetive 
+<b> == <B>
+
+small letters 
+
+<html>
+<head>
+<title></title>
+</head>
+<body>
+
+</body>
+</html>
+
+===========================================
+1- Text 
+
+2- Image 
+
+3- Tables 
+
+4- form 
+
+================================
+
+Note pad 
+
+
+==============
+
+ordered list 
+
+un ordered list 
+descriptive list 
+
+mixed list 
+
+
+
+
+
+html   <dt>
+         hyper text markup Language < dd>
+
+js 
+    javascript 
+
+<dl>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

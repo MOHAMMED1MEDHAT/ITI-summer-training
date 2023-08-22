@@ -1,0 +1,23 @@
+x
+var y 
+
+var sum=x+y
+
+-.........
+vae a 
+var b 
+var sum2 =a+b 
+
+function (){
+
+}
+
+
+
+=======
+losely type 
+
+function fun1 (){
+
+
+}

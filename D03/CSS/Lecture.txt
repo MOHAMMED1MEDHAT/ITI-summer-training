@@ -1,0 +1,62 @@
+HTML 
+
+CSS ==> Casceeding Style sheets 
+
+Static web Page 
+
+<p align="center">ITI </p>
+
+1- redunduncy 
+
+2- maintabiltiy 
+
+3- border coor for image || max font size  =7  || center for image 
+
+
+4-  Mixing between design and Data in tables 
+
+==========================
+p{
+	text-align :right; 
+}
+
+
+
+selector {
+	prop: value ;
+
+	prop: value ;
+	prop: value ;
+	prop: value ;
+
+}
+
+====================
+where to write css 
+
+1- external style (external file )  ===> <link/>
+
+2- internal style  ==> inside <head> ==> inside <style>
+
+3- inline Line style ==> attr style ==> tag 
+
+====================================
+seletors 
+
+tag name 
+
+Id Selector 
+class selector 
+grouping selector 
+universal selector 
+attribute selector 
+pesudo class selector 
+
+=======================================
+padding
+margin 
+border
+outline
+
+
+
